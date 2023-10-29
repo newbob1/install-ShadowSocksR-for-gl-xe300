@@ -1,0 +1,3 @@
+SSH UPLOAD THESE FILES
+AND THEN INSTALL THENM
+opkg install *.ipk
