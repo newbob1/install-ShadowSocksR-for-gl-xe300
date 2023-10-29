@@ -1,3 +1,3 @@
-SSH UPLOAD THESE FILES
-AND THEN INSTALL THENM
-opkg install *.ipk
+SSH upload these files
+and then,install them
+[opkg install *.ipk]
